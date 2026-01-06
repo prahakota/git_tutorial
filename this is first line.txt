@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 this is first line in new branch in local system
 
 
 deed
+=======
+this is first line in new branch
+xff
+
+
+>>>>>>> refs/remotes/origin/main
